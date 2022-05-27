@@ -1,9 +1,9 @@
-local update
+local update = true
 
 
 
 
-update = false
+
 
 
 if update == true then
