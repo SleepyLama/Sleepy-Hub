@@ -3,7 +3,7 @@ local update
 
 
 
-update = false
+update = true
 
 
 if update == true then
